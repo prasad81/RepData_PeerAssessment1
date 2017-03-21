@@ -1,4 +1,4 @@
-# Reproducible Research: Peer Assessment 1
+# Coursera - Reproducible Research: Peer Assessment 1
 
 
 ## Loading and preprocessing the data
